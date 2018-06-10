@@ -125,7 +125,7 @@ Docker 使用  [Go](https://golang.org/) 进行开发实现，基于 Linux 内
 
 ![](./assets/deploy.png)
 
-缺少：
+缺少：
 
 - 1. nginx 配置
 - 2. 负载均衡
@@ -133,7 +133,7 @@ Docker 使用  [Go](https://golang.org/) 进行开发实现，基于 Linux 内
 - 4. 灰度发布
 - 5. 集群管理（k8s）
 
-### 六、[docker 相关学习](./docker-awesome-list.md)
+### 六、[docker 相关学习](./docker-awesome-list.md)
 
 ---
 
